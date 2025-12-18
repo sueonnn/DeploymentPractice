@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useMemo } from "react";
+import { useState, useCallback, useMemo } from "react";
 import MovieFilter from "../components/MovieFilter";
 import MovieList from "../components/MovieList";
 import MovieModal from "../components/MovieModal";
